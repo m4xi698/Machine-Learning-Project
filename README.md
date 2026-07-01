@@ -10,15 +10,19 @@ DHBW Karlsruhe
 
 ## Team Members
 - Maximilian Dammert
-- Patrick Sichma
 - Yuya Kayanuma
+- Patrick Sichma
 
 ## Project Status
-The dataset and research question have not been finalized yet.  
-This repository is currently used to organize the project structure and prepare the machine learning workflow.
+This notebook attempts to answer the question of whether, based on the available data, a correlation can be established between academic performance and AI usage.
+A dataset from kaggle.com was used for this purpose (https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students/data).
+The datasets examined are synthetically generated.
 
 ## Project Goal
 The goal of this project is to define a machine learning research question, analyze a suitable structured dataset, build and evaluate machine learning models in Python, and document the results in a Jupyter Notebook.
+
+SMART-Question:
+How accurately can students' post-semester GPAs be predicted based on their past academic performance, learning behaviors, and use of generative AI, and which factors contribute most significantly to this prediction?
 
 ## Repository Structure
 
